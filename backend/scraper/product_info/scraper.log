@@ -1,0 +1,540 @@
+2025-04-27 15:16:15,621 - INFO - Loaded 344 URLs from product_links.json
+2025-04-27 15:16:15,622 - INFO - Starting to process 344 URLs in batches of 10
+2025-04-27 15:16:15,622 - INFO - 344 URLs remaining to process
+2025-04-27 15:16:16,239 - INFO - patching driver executable /Users/lisajl/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-27 15:16:21,265 - INFO - Processing batch 1/35 with 10 URLs
+2025-04-27 15:16:21,265 - INFO - Processing 1/344: https://www.partselect.com/PS11766800-Samsung-DA97-14474C-Ice-Container-Assembly.htm?SourceCode=18
+2025-04-27 15:16:21,265 - INFO - Scraping: https://www.partselect.com/PS11766800-Samsung-DA97-14474C-Ice-Container-Assembly.htm?SourceCode=18
+2025-04-27 15:16:34,866 - INFO - Processing 2/344: https://www.partselect.com/PS11743131-Whirlpool-WP61002112-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:16:36,998 - INFO - Scraping: https://www.partselect.com/PS11743131-Whirlpool-WP61002112-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:16:42,122 - WARNING - Script interrupted by user, saving progress...
+2025-04-27 15:16:42,430 - INFO - Scraping completed: 1 URLs processed
+2025-04-27 15:16:42,430 - INFO - Success: 1 (100.00%), Failed: 0
+2025-04-27 15:16:42,430 - INFO - All data saved to output/partselect_final_data.json
+2025-04-27 15:16:42,430 - INFO - Total execution time: 0h 0m 26s
+2025-04-27 15:18:30,825 - INFO - Loaded 344 URLs from product_links.json
+2025-04-27 15:18:30,825 - INFO - Starting to process 344 URLs in batches of 10
+2025-04-27 15:18:30,825 - INFO - 344 URLs remaining to process
+2025-04-27 15:18:31,433 - INFO - patching driver executable /Users/lisajl/Library/Application Support/undetected_chromedriver/undetected_chromedriver
+2025-04-27 15:18:36,487 - INFO - Processing batch 1/35 with 10 URLs
+2025-04-27 15:18:36,487 - INFO - Processing 1/344: https://www.partselect.com/PS11766800-Samsung-DA97-14474C-Ice-Container-Assembly.htm?SourceCode=18
+2025-04-27 15:18:36,487 - INFO - Scraping: https://www.partselect.com/PS11766800-Samsung-DA97-14474C-Ice-Container-Assembly.htm?SourceCode=18
+2025-04-27 15:18:50,857 - INFO - Processing 2/344: https://www.partselect.com/PS11743131-Whirlpool-WP61002112-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:18:53,314 - INFO - Scraping: https://www.partselect.com/PS11743131-Whirlpool-WP61002112-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:19:06,459 - INFO - Processing 3/344: https://www.partselect.com/PS2350702-Frigidaire-297216600-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 15:19:08,213 - INFO - Scraping: https://www.partselect.com/PS2350702-Frigidaire-297216600-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 15:19:20,518 - INFO - Processing 4/344: https://www.partselect.com/PS430122-Frigidaire-240356402-Door-Bin-Clear.htm?SourceCode=18
+2025-04-27 15:19:22,913 - INFO - Scraping: https://www.partselect.com/PS430122-Frigidaire-240356402-Door-Bin-Clear.htm?SourceCode=18
+2025-04-27 15:19:37,059 - INFO - Processing 5/344: https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=18
+2025-04-27 15:19:39,094 - INFO - Scraping: https://www.partselect.com/PS1960673-Whirlpool-W10135699-Affresh-Washing-Machine-Cleaner-3-pack.htm?SourceCode=18
+2025-04-27 15:19:51,747 - INFO - Processing 6/344: https://www.partselect.com/PS11731356-Whirlpool-W10857122-Light-Bulb-7W.htm?SourceCode=18
+2025-04-27 15:19:54,466 - INFO - Scraping: https://www.partselect.com/PS11731356-Whirlpool-W10857122-Light-Bulb-7W.htm?SourceCode=18
+2025-04-27 15:20:15,069 - INFO - Processing 7/344: https://www.partselect.com/PS11738948-Whirlpool-WP2162361-Micro-Switch.htm?SourceCode=18
+2025-04-27 15:20:17,630 - INFO - Scraping: https://www.partselect.com/PS11738948-Whirlpool-WP2162361-Micro-Switch.htm?SourceCode=18
+2025-04-27 15:20:31,392 - INFO - Processing 8/344: https://www.partselect.com/PS2370502-GE-WD12X10304-RACK-SLIDE-END-CAP.htm?SourceCode=18
+2025-04-27 15:20:33,884 - INFO - Scraping: https://www.partselect.com/PS2370502-GE-WD12X10304-RACK-SLIDE-END-CAP.htm?SourceCode=18
+2025-04-27 15:20:47,603 - INFO - Processing 9/344: https://www.partselect.com/PS17137080-GE-WD22X33498-MID-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:20:50,606 - INFO - Scraping: https://www.partselect.com/PS17137080-GE-WD22X33498-MID-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:21:03,038 - INFO - Processing 10/344: https://www.partselect.com/PS2367638-Whirlpool-W10282479-Affresh-Cleaner.htm?SourceCode=18
+2025-04-27 15:21:04,143 - INFO - Scraping: https://www.partselect.com/PS2367638-Whirlpool-W10282479-Affresh-Cleaner.htm?SourceCode=18
+2025-04-27 15:21:16,874 - INFO - Completed batch 1/35, saved to output/partselect_batch_1.json
+2025-04-27 15:21:16,875 - INFO - Waiting 5.70 seconds before next batch...
+2025-04-27 15:21:22,584 - INFO - Processing batch 2/35 with 10 URLs
+2025-04-27 15:21:22,584 - INFO - Processing 11/344: https://www.partselect.com/PS8728568-Bosch-00619985-Mounting-Bracket.htm?SourceCode=18
+2025-04-27 15:21:22,584 - INFO - Scraping: https://www.partselect.com/PS8728568-Bosch-00619985-Mounting-Bracket.htm?SourceCode=18
+2025-04-27 15:21:36,285 - INFO - Processing 12/344: https://www.partselect.com/PS1524878-Frigidaire-154106202-Heating-Element-Brass-Nut.htm?SourceCode=18
+2025-04-27 15:21:37,951 - INFO - Scraping: https://www.partselect.com/PS1524878-Frigidaire-154106202-Heating-Element-Brass-Nut.htm?SourceCode=18
+2025-04-27 15:21:52,545 - INFO - Processing 13/344: https://www.partselect.com/PS17807928-Blomberg-4151231600-Vcc-Compressor-Embraco-Vemc7c-115v.htm?SourceCode=18
+2025-04-27 15:21:54,671 - INFO - Scraping: https://www.partselect.com/PS17807928-Blomberg-4151231600-Vcc-Compressor-Embraco-Vemc7c-115v.htm?SourceCode=18
+2025-04-27 15:22:07,571 - INFO - Processing 14/344: https://www.partselect.com/PS8736533-Bosch-00710673-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 15:22:09,742 - INFO - Scraping: https://www.partselect.com/PS8736533-Bosch-00710673-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 15:22:21,906 - INFO - Processing 15/344: https://www.partselect.com/PS12744172-GE-WR72X31124-Snack-Pan-Shelf.htm?SourceCode=18
+2025-04-27 15:22:23,873 - INFO - Scraping: https://www.partselect.com/PS12744172-GE-WR72X31124-Snack-Pan-Shelf.htm?SourceCode=18
+2025-04-27 15:22:35,545 - INFO - Processing 16/344: https://www.partselect.com/PS11770473-Frigidaire-5304506469-Refrigerator-Handle-set-2-pieces-White.htm?SourceCode=18
+2025-04-27 15:22:36,966 - INFO - Scraping: https://www.partselect.com/PS11770473-Frigidaire-5304506469-Refrigerator-Handle-set-2-pieces-White.htm?SourceCode=18
+2025-04-27 15:22:49,925 - INFO - Processing 17/344: https://www.partselect.com/PS10063209-GE-RPWFE-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:22:51,489 - INFO - Scraping: https://www.partselect.com/PS10063209-GE-RPWFE-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:23:04,243 - INFO - Processing 18/344: https://www.partselect.com/PS12741258-GE-WD21X25468-PRESSURE-SENSOR-ASM.htm?SourceCode=18
+2025-04-27 15:23:05,906 - INFO - Scraping: https://www.partselect.com/PS12741258-GE-WD21X25468-PRESSURE-SENSOR-ASM.htm?SourceCode=18
+2025-04-27 15:23:19,262 - INFO - Processing 19/344: https://www.partselect.com/PS12728638-Whirlpool-W11384469-Refrigerator-Door-Switch.htm?SourceCode=18
+2025-04-27 15:23:20,870 - INFO - Scraping: https://www.partselect.com/PS12728638-Whirlpool-W11384469-Refrigerator-Door-Switch.htm?SourceCode=18
+2025-04-27 15:23:35,528 - INFO - Processing 20/344: https://www.partselect.com/PS17800158-Blomberg-1510460200-Oem-Atlantis-Shelf-Group.htm?SourceCode=18
+2025-04-27 15:23:38,514 - INFO - Scraping: https://www.partselect.com/PS17800158-Blomberg-1510460200-Oem-Atlantis-Shelf-Group.htm?SourceCode=18
+2025-04-27 15:23:43,625 - INFO - Saved progress: 20/344 URLs processed
+2025-04-27 15:23:43,625 - INFO - Completed batch 2/35, saved to output/partselect_batch_2.json
+2025-04-27 15:23:43,625 - INFO - Waiting 9.76 seconds before next batch...
+2025-04-27 15:23:53,398 - INFO - Processing batch 3/35 with 10 URLs
+2025-04-27 15:23:53,399 - INFO - Processing 21/344: https://www.partselect.com/PS11703834-Frigidaire-5304500204-Dishwasher-Door-Bottom-Seal.htm?SourceCode=18
+2025-04-27 15:23:53,399 - INFO - Scraping: https://www.partselect.com/PS11703834-Frigidaire-5304500204-Dishwasher-Door-Bottom-Seal.htm?SourceCode=18
+2025-04-27 15:24:05,303 - INFO - Processing 22/344: https://www.partselect.com/PS734935-Frigidaire-240534901-Door-Shelf-Retainer-Bar.htm?SourceCode=18
+2025-04-27 15:24:07,239 - INFO - Scraping: https://www.partselect.com/PS734935-Frigidaire-240534901-Door-Shelf-Retainer-Bar.htm?SourceCode=18
+2025-04-27 15:24:22,843 - INFO - Processing 23/344: https://www.partselect.com/PS16662680-LG-MAN64890501-Door-Bin-Shelf.htm?SourceCode=18
+2025-04-27 15:24:25,501 - INFO - Scraping: https://www.partselect.com/PS16662680-LG-MAN64890501-Door-Bin-Shelf.htm?SourceCode=18
+2025-04-27 15:24:36,669 - INFO - Processing 24/344: https://www.partselect.com/PS12727331-GE-WR30X30972-Ice-Maker-Assembly-Kit.htm?SourceCode=18
+2025-04-27 15:24:39,047 - INFO - Scraping: https://www.partselect.com/PS12727331-GE-WR30X30972-Ice-Maker-Assembly-Kit.htm?SourceCode=18
+2025-04-27 15:24:51,839 - INFO - Processing 25/344: https://www.partselect.com/PS734936-Frigidaire-240534701-Door-Shelf-Retainer-Bar.htm?SourceCode=18
+2025-04-27 15:24:53,867 - INFO - Scraping: https://www.partselect.com/PS734936-Frigidaire-240534701-Door-Shelf-Retainer-Bar.htm?SourceCode=18
+2025-04-27 15:25:08,365 - INFO - Processing 26/344: https://www.partselect.com/PS11741931-Whirlpool-WP37001298-Drum-Glide.htm?SourceCode=18
+2025-04-27 15:25:10,057 - INFO - Scraping: https://www.partselect.com/PS11741931-Whirlpool-WP37001298-Drum-Glide.htm?SourceCode=18
+2025-04-27 15:25:22,729 - INFO - Processing 27/344: https://www.partselect.com/PS11759515-Whirlpool-W10830162-Door-Gasket-Gray.htm?SourceCode=18
+2025-04-27 15:25:23,750 - INFO - Scraping: https://www.partselect.com/PS11759515-Whirlpool-W10830162-Door-Gasket-Gray.htm?SourceCode=18
+2025-04-27 15:25:34,691 - INFO - Processing 28/344: https://www.partselect.com/PS11757236-Whirlpool-WPW10710203-Gallon-Door-Bin-Clear.htm?SourceCode=18
+2025-04-27 15:25:36,074 - INFO - Scraping: https://www.partselect.com/PS11757236-Whirlpool-WPW10710203-Gallon-Door-Bin-Clear.htm?SourceCode=18
+2025-04-27 15:25:49,266 - INFO - Processing 29/344: https://www.partselect.com/PS11745488-Whirlpool-WP8268961-Friction-Sleeve.htm?SourceCode=18
+2025-04-27 15:25:51,306 - INFO - Scraping: https://www.partselect.com/PS11745488-Whirlpool-WP8268961-Friction-Sleeve.htm?SourceCode=18
+2025-04-27 15:26:05,145 - INFO - Processing 30/344: https://www.partselect.com/PS17823921-SMEG-975770365-Adjuster-Feet-Ls08.htm?SourceCode=18
+2025-04-27 15:26:06,456 - INFO - Scraping: https://www.partselect.com/PS17823921-SMEG-975770365-Adjuster-Feet-Ls08.htm?SourceCode=18
+2025-04-27 15:26:21,409 - INFO - Completed batch 3/35, saved to output/partselect_batch_3.json
+2025-04-27 15:26:21,410 - INFO - Waiting 8.51 seconds before next batch...
+2025-04-27 15:26:29,924 - INFO - Processing batch 4/35 with 10 URLs
+2025-04-27 15:26:29,925 - INFO - Processing 31/344: https://www.partselect.com/PS429854-Frigidaire-240337103-Refrigerator-Crisper-Pan.htm?SourceCode=18
+2025-04-27 15:26:29,925 - INFO - Scraping: https://www.partselect.com/PS429854-Frigidaire-240337103-Refrigerator-Crisper-Pan.htm?SourceCode=18
+2025-04-27 15:26:44,466 - INFO - Processing 32/344: https://www.partselect.com/PS17137081-GE-WD22X33499-LOWER-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:26:46,669 - INFO - Scraping: https://www.partselect.com/PS17137081-GE-WD22X33499-LOWER-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:27:02,347 - INFO - Processing 33/344: https://www.partselect.com/PS11700870-GE-WD08X21894-Gasket.htm?SourceCode=18
+2025-04-27 15:27:03,543 - INFO - Scraping: https://www.partselect.com/PS11700870-GE-WD08X21894-Gasket.htm?SourceCode=18
+2025-04-27 15:27:15,808 - INFO - Processing 34/344: https://www.partselect.com/PS11739347-Whirlpool-WP22002263-Light-Bulb-10W.htm?SourceCode=18
+2025-04-27 15:27:17,948 - INFO - Scraping: https://www.partselect.com/PS11739347-Whirlpool-WP22002263-Light-Bulb-10W.htm?SourceCode=18
+2025-04-27 15:27:32,710 - INFO - Processing 35/344: https://www.partselect.com/PS12705424-Frigidaire-5304518927-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:27:35,713 - INFO - Scraping: https://www.partselect.com/PS12705424-Frigidaire-5304518927-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:27:49,768 - INFO - Processing 36/344: https://www.partselect.com/PS4222432-Samsung-DD62-00043A-Door-Seal.htm?SourceCode=18
+2025-04-27 15:27:51,897 - INFO - Scraping: https://www.partselect.com/PS4222432-Samsung-DD62-00043A-Door-Seal.htm?SourceCode=18
+2025-04-27 15:28:07,087 - INFO - Processing 37/344: https://www.partselect.com/PS8689824-Frigidaire-A00126401-Drain-Pump-120V-60Hz.htm?SourceCode=18
+2025-04-27 15:28:09,669 - INFO - Scraping: https://www.partselect.com/PS8689824-Frigidaire-A00126401-Drain-Pump-120V-60Hz.htm?SourceCode=18
+2025-04-27 15:28:23,698 - INFO - Processing 38/344: https://www.partselect.com/PS12712096-Whirlpool-W11342242-ARM-SHUT.htm?SourceCode=18
+2025-04-27 15:28:25,589 - INFO - Scraping: https://www.partselect.com/PS12712096-Whirlpool-W11342242-ARM-SHUT.htm?SourceCode=18
+2025-04-27 15:28:40,139 - INFO - Processing 39/344: https://www.partselect.com/PS7784018-Frigidaire-242252702-Refrigerator-Water-Inlet-Valve.htm?SourceCode=18
+2025-04-27 15:28:42,913 - INFO - Scraping: https://www.partselect.com/PS7784018-Frigidaire-242252702-Refrigerator-Water-Inlet-Valve.htm?SourceCode=18
+2025-04-27 15:28:58,781 - INFO - Processing 40/344: https://www.partselect.com/PS8737395-Bosch-00770545-Lower-Dishrack-Assembly.htm?SourceCode=18
+2025-04-27 15:29:00,968 - INFO - Scraping: https://www.partselect.com/PS8737395-Bosch-00770545-Lower-Dishrack-Assembly.htm?SourceCode=18
+2025-04-27 15:29:17,280 - INFO - Saved progress: 40/344 URLs processed
+2025-04-27 15:29:17,282 - INFO - Completed batch 4/35, saved to output/partselect_batch_4.json
+2025-04-27 15:29:17,282 - INFO - Waiting 7.79 seconds before next batch...
+2025-04-27 15:29:25,082 - INFO - Processing batch 5/35 with 10 URLs
+2025-04-27 15:29:25,083 - INFO - Processing 41/344: https://www.partselect.com/PS17821914-SMEG-811651941-Pot-Card.htm?SourceCode=18
+2025-04-27 15:29:25,083 - INFO - Scraping: https://www.partselect.com/PS17821914-SMEG-811651941-Pot-Card.htm?SourceCode=18
+2025-04-27 15:29:40,013 - INFO - Processing 42/344: https://www.partselect.com/PS12586284-Frigidaire-PAULTRA2-Air-Filter.htm?SourceCode=18
+2025-04-27 15:29:41,316 - INFO - Scraping: https://www.partselect.com/PS12586284-Frigidaire-PAULTRA2-Air-Filter.htm?SourceCode=18
+2025-04-27 15:29:54,739 - INFO - Processing 43/344: https://www.partselect.com/PS1964356-Whirlpool-W10156818-Fan-Blade.htm?SourceCode=18
+2025-04-27 15:29:57,156 - INFO - Scraping: https://www.partselect.com/PS1964356-Whirlpool-W10156818-Fan-Blade.htm?SourceCode=18
+2025-04-27 15:30:11,995 - INFO - Processing 44/344: https://www.partselect.com/PS12729559-Bosch-11030672-TRAY.htm?SourceCode=18
+2025-04-27 15:30:13,094 - INFO - Scraping: https://www.partselect.com/PS12729559-Bosch-11030672-TRAY.htm?SourceCode=18
+2025-04-27 15:30:21,003 - INFO - Processing 45/344: https://www.partselect.com/PS735091-Frigidaire-240535101-Door-Rack.htm?SourceCode=18
+2025-04-27 15:30:23,495 - INFO - Scraping: https://www.partselect.com/PS735091-Frigidaire-240535101-Door-Rack.htm?SourceCode=18
+2025-04-27 15:30:39,778 - INFO - Processing 46/344: https://www.partselect.com/PS7788835-LG-AHB32983761-Dishrack-Upper.htm?SourceCode=18
+2025-04-27 15:30:41,187 - INFO - Scraping: https://www.partselect.com/PS7788835-LG-AHB32983761-Dishrack-Upper.htm?SourceCode=18
+2025-04-27 15:30:54,566 - INFO - Processing 47/344: https://www.partselect.com/PS17219658-Frigidaire-5304535379-RACK-ASSEMBLEY-LOWER-GREY.htm?SourceCode=18
+2025-04-27 15:30:57,008 - INFO - Scraping: https://www.partselect.com/PS17219658-Frigidaire-5304535379-RACK-ASSEMBLEY-LOWER-GREY.htm?SourceCode=18
+2025-04-27 15:31:14,640 - INFO - Processing 48/344: https://www.partselect.com/PS8727387-Bosch-00611475-Dishrack-Roller-Grey.htm?SourceCode=18
+2025-04-27 15:31:17,516 - INFO - Scraping: https://www.partselect.com/PS8727387-Bosch-00611475-Dishrack-Roller-Grey.htm?SourceCode=18
+2025-04-27 15:31:35,411 - INFO - Processing 49/344: https://www.partselect.com/PS11750093-Whirlpool-WPW10195840-Dishwasher-Positioner.htm?SourceCode=18
+2025-04-27 15:31:36,761 - INFO - Scraping: https://www.partselect.com/PS11750093-Whirlpool-WPW10195840-Dishwasher-Positioner.htm?SourceCode=18
+2025-04-27 15:31:54,117 - INFO - Processing 50/344: https://www.partselect.com/PS11722130-Whirlpool-EDR4RXD1-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:31:56,649 - INFO - Scraping: https://www.partselect.com/PS11722130-Whirlpool-EDR4RXD1-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:32:12,748 - INFO - Completed batch 5/35, saved to output/partselect_batch_5.json
+2025-04-27 15:32:12,748 - INFO - Waiting 6.91 seconds before next batch...
+2025-04-27 15:32:19,662 - INFO - Processing batch 6/35 with 10 URLs
+2025-04-27 15:32:19,663 - INFO - Processing 51/344: https://www.partselect.com/PS17820154-SMEG-760392174-Bottle-Shelf.htm?SourceCode=18
+2025-04-27 15:32:19,663 - INFO - Scraping: https://www.partselect.com/PS17820154-SMEG-760392174-Bottle-Shelf.htm?SourceCode=18
+2025-04-27 15:32:33,642 - INFO - Processing 52/344: https://www.partselect.com/PS16217024-GE-WD12X26146-LOWER-RACK-ROLLER.htm?SourceCode=18
+2025-04-27 15:32:35,811 - INFO - Scraping: https://www.partselect.com/PS16217024-GE-WD12X26146-LOWER-RACK-ROLLER.htm?SourceCode=18
+2025-04-27 15:32:50,542 - INFO - Processing 53/344: https://www.partselect.com/PS12578165-Whirlpool-W11175771-Dishwasher-INLET-VALVE.htm?SourceCode=18
+2025-04-27 15:32:52,250 - INFO - Scraping: https://www.partselect.com/PS12578165-Whirlpool-W11175771-Dishwasher-INLET-VALVE.htm?SourceCode=18
+2025-04-27 15:33:11,944 - INFO - Processing 54/344: https://www.partselect.com/PS16218716-Frigidaire-5304525218-Latch.htm?SourceCode=18
+2025-04-27 15:33:13,879 - INFO - Scraping: https://www.partselect.com/PS16218716-Frigidaire-5304525218-Latch.htm?SourceCode=18
+2025-04-27 15:33:31,985 - INFO - Processing 55/344: https://www.partselect.com/PS975905-Frigidaire-154428402-Tine-Bracket.htm?SourceCode=18
+2025-04-27 15:33:34,525 - INFO - Scraping: https://www.partselect.com/PS975905-Frigidaire-154428402-Tine-Bracket.htm?SourceCode=18
+2025-04-27 15:33:49,857 - INFO - Processing 56/344: https://www.partselect.com/PS16745479-Frigidaire-5304532229-WHEEL-BUSHING-ASS.htm?SourceCode=18
+2025-04-27 15:33:52,438 - INFO - Scraping: https://www.partselect.com/PS16745479-Frigidaire-5304532229-WHEEL-BUSHING-ASS.htm?SourceCode=18
+2025-04-27 15:34:05,535 - INFO - Processing 57/344: https://www.partselect.com/PS4138666-Samsung-DA32-10104N-Temperature-Sensor.htm?SourceCode=18
+2025-04-27 15:34:06,565 - INFO - Scraping: https://www.partselect.com/PS4138666-Samsung-DA32-10104N-Temperature-Sensor.htm?SourceCode=18
+2025-04-27 15:34:21,898 - INFO - Processing 58/344: https://www.partselect.com/PS9492801-Bosch-00713448-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 15:34:23,893 - INFO - Scraping: https://www.partselect.com/PS9492801-Bosch-00713448-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 15:34:29,774 - INFO - Processing 59/344: https://www.partselect.com/PS2323438-GE-WR71X10761-Module-Shelf-Insert-Clear.htm?SourceCode=18
+2025-04-27 15:34:32,673 - INFO - Scraping: https://www.partselect.com/PS2323438-GE-WR71X10761-Module-Shelf-Insert-Clear.htm?SourceCode=18
+2025-04-27 15:34:49,955 - INFO - Processing 60/344: https://www.partselect.com/PS12712289-Frigidaire-5304518968-Lower-Spray-Arm-Support.htm?SourceCode=18
+2025-04-27 15:34:52,876 - INFO - Scraping: https://www.partselect.com/PS12712289-Frigidaire-5304518968-Lower-Spray-Arm-Support.htm?SourceCode=18
+2025-04-27 15:35:10,156 - INFO - Saved progress: 60/344 URLs processed
+2025-04-27 15:35:10,159 - INFO - Completed batch 6/35, saved to output/partselect_batch_6.json
+2025-04-27 15:35:10,159 - INFO - Waiting 9.32 seconds before next batch...
+2025-04-27 15:35:19,483 - INFO - Processing batch 7/35 with 10 URLs
+2025-04-27 15:35:19,485 - INFO - Processing 61/344: https://www.partselect.com/PS12085764-Samsung-DD97-00509A-Rotor-Assembly-Upper.htm?SourceCode=18
+2025-04-27 15:35:19,485 - INFO - Scraping: https://www.partselect.com/PS12085764-Samsung-DD97-00509A-Rotor-Assembly-Upper.htm?SourceCode=18
+2025-04-27 15:35:34,845 - INFO - Processing 62/344: https://www.partselect.com/PS8737036-Bosch-00745856-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:35:37,181 - INFO - Scraping: https://www.partselect.com/PS8737036-Bosch-00745856-SPRAY-ARM.htm?SourceCode=18
+2025-04-27 15:35:52,217 - INFO - Processing 63/344: https://www.partselect.com/PS11746830-Whirlpool-WP902894-Door-Gasket.htm?SourceCode=18
+2025-04-27 15:35:54,655 - INFO - Scraping: https://www.partselect.com/PS11746830-Whirlpool-WP902894-Door-Gasket.htm?SourceCode=18
+2025-04-27 15:36:11,908 - INFO - Processing 64/344: https://www.partselect.com/PS11700735-LG-AAP73051305-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 15:36:13,713 - INFO - Scraping: https://www.partselect.com/PS11700735-LG-AAP73051305-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 15:36:27,542 - INFO - Processing 65/344: https://www.partselect.com/PS11731683-Whirlpool-W10864081-Seal.htm?SourceCode=18
+2025-04-27 15:36:29,158 - INFO - Scraping: https://www.partselect.com/PS11731683-Whirlpool-W10864081-Seal.htm?SourceCode=18
+2025-04-27 15:36:46,410 - INFO - Processing 66/344: https://www.partselect.com/PS16729156-GE-WD05X30818-HEATING-ELEMENT.htm?SourceCode=18
+2025-04-27 15:36:48,280 - INFO - Scraping: https://www.partselect.com/PS16729156-GE-WD05X30818-HEATING-ELEMENT.htm?SourceCode=18
+2025-04-27 15:37:05,679 - INFO - Processing 67/344: https://www.partselect.com/PS16556076-Bosch-11034152-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:37:06,864 - INFO - Scraping: https://www.partselect.com/PS16556076-Bosch-11034152-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 15:37:21,359 - INFO - Processing 68/344: https://www.partselect.com/PS16621806-LG-AEM74333104-Hose-Drain-Assembly.htm?SourceCode=18
+2025-04-27 15:37:24,075 - INFO - Scraping: https://www.partselect.com/PS16621806-LG-AEM74333104-Hose-Drain-Assembly.htm?SourceCode=18
+2025-04-27 15:37:40,447 - INFO - Processing 69/344: https://www.partselect.com/PS11745496-Whirlpool-WP8269145-Mounting-Bracket.htm?SourceCode=18
+2025-04-27 15:37:41,725 - INFO - Scraping: https://www.partselect.com/PS11745496-Whirlpool-WP8269145-Mounting-Bracket.htm?SourceCode=18
+2025-04-27 15:37:59,218 - INFO - Processing 70/344: https://www.partselect.com/PS11738927-Whirlpool-WP2156003-Door-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:38:01,902 - INFO - Scraping: https://www.partselect.com/PS11738927-Whirlpool-WP2156003-Door-Shelf-Retainer-Bar-End-Cap.htm?SourceCode=18
+2025-04-27 15:38:19,358 - INFO - Completed batch 7/35, saved to output/partselect_batch_7.json
+2025-04-27 15:38:19,359 - INFO - Waiting 6.55 seconds before next batch...
+2025-04-27 15:38:25,915 - INFO - Processing batch 8/35 with 10 URLs
+2025-04-27 15:38:25,916 - INFO - Processing 71/344: https://www.partselect.com/PS2358880-Frigidaire-241993101-Crisper-Cover-Support-Front.htm?SourceCode=18
+2025-04-27 15:38:25,917 - INFO - Scraping: https://www.partselect.com/PS2358880-Frigidaire-241993101-Crisper-Cover-Support-Front.htm?SourceCode=18
+2025-04-27 15:38:45,410 - INFO - Processing 72/344: https://www.partselect.com/PS17800250-Blomberg-1513640200-Clips-Long.htm?SourceCode=18
+2025-04-27 15:38:47,546 - INFO - Scraping: https://www.partselect.com/PS17800250-Blomberg-1513640200-Clips-Long.htm?SourceCode=18
+2025-04-27 15:39:03,563 - INFO - Processing 73/344: https://www.partselect.com/PS12071116-Frigidaire-5304508016-ROLLER.htm?SourceCode=18
+2025-04-27 15:39:05,173 - INFO - Scraping: https://www.partselect.com/PS12071116-Frigidaire-5304508016-ROLLER.htm?SourceCode=18
+2025-04-27 15:39:20,661 - INFO - Processing 74/344: https://www.partselect.com/PS11746842-Whirlpool-WP910218-Coupler-Gasket.htm?SourceCode=18
+2025-04-27 15:39:23,657 - INFO - Scraping: https://www.partselect.com/PS11746842-Whirlpool-WP910218-Coupler-Gasket.htm?SourceCode=18
+2025-04-27 15:39:40,831 - INFO - Processing 75/344: https://www.partselect.com/PS2363600-Frigidaire-240364787-Refrigerator-Crisper-Drawer-Cover.htm?SourceCode=18
+2025-04-27 15:39:43,560 - INFO - Scraping: https://www.partselect.com/PS2363600-Frigidaire-240364787-Refrigerator-Crisper-Drawer-Cover.htm?SourceCode=18
+2025-04-27 15:40:00,962 - INFO - Processing 76/344: https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=18
+2025-04-27 15:40:03,484 - INFO - Scraping: https://www.partselect.com/PS12345661-Whirlpool-W10501250-Affresh-Washing-Machine-Cleaner-Tablets-6-Count.htm?SourceCode=18
+2025-04-27 15:40:27,196 - INFO - Processing 77/344: https://www.partselect.com/PS11740613-Whirlpool-WP285655-Hose-Clamp.htm?SourceCode=18
+2025-04-27 15:40:28,793 - INFO - Scraping: https://www.partselect.com/PS11740613-Whirlpool-WP285655-Hose-Clamp.htm?SourceCode=18
+2025-04-27 15:40:49,890 - INFO - Processing 78/344: https://www.partselect.com/PS4222545-Samsung-DD66-00045A-Drain-Check-Valve.htm?SourceCode=18
+2025-04-27 15:40:52,771 - INFO - Scraping: https://www.partselect.com/PS4222545-Samsung-DD66-00045A-Drain-Check-Valve.htm?SourceCode=18
+2025-04-27 15:41:15,835 - INFO - Processing 79/344: https://www.partselect.com/PS1993820-Frigidaire-EAFCBF-Air-Filter.htm?SourceCode=18
+2025-04-27 15:41:20,343 - INFO - Scraping: https://www.partselect.com/PS1993820-Frigidaire-EAFCBF-Air-Filter.htm?SourceCode=18
+2025-04-27 15:41:42,774 - INFO - Processing 80/344: https://www.partselect.com/PS11721490-GE-WD08X22095-GASKET-TUB-Stainless-Steel.htm?SourceCode=18
+2025-04-27 15:41:44,017 - INFO - Scraping: https://www.partselect.com/PS11721490-GE-WD08X22095-GASKET-TUB-Stainless-Steel.htm?SourceCode=18
+2025-04-27 15:42:05,125 - INFO - Saved progress: 80/344 URLs processed
+2025-04-27 15:42:05,128 - INFO - Completed batch 8/35, saved to output/partselect_batch_8.json
+2025-04-27 15:42:05,128 - INFO - Waiting 5.45 seconds before next batch...
+2025-04-27 15:42:10,585 - INFO - Processing batch 9/35 with 10 URLs
+2025-04-27 15:42:10,585 - INFO - Processing 81/344: https://www.partselect.com/PS430916-Frigidaire-240530601-Drawer-Support-Rail-Left-Side.htm?SourceCode=18
+2025-04-27 15:42:10,586 - INFO - Scraping: https://www.partselect.com/PS430916-Frigidaire-240530601-Drawer-Support-Rail-Left-Side.htm?SourceCode=18
+2025-04-27 15:42:37,706 - INFO - Processing 82/344: https://www.partselect.com/PS12710385-GE-WR14X31072-FRESH-FOOD-DOOR-GASKET-WHITE.htm?SourceCode=18
+2025-04-27 15:42:40,585 - INFO - Scraping: https://www.partselect.com/PS12710385-GE-WR14X31072-FRESH-FOOD-DOOR-GASKET-WHITE.htm?SourceCode=18
+2025-04-27 15:42:58,860 - INFO - Processing 83/344: https://www.partselect.com/PS11739026-Whirlpool-WP2180224-Ice-Guide.htm?SourceCode=18
+2025-04-27 15:43:00,401 - INFO - Scraping: https://www.partselect.com/PS11739026-Whirlpool-WP2180224-Ice-Guide.htm?SourceCode=18
+2025-04-27 15:43:24,264 - INFO - Processing 84/344: https://www.partselect.com/PS11752778-Whirlpool-WPW10321304-Refrigerator-Door-Shelf-Bin.htm?SourceCode=18
+2025-04-27 15:43:26,975 - INFO - Scraping: https://www.partselect.com/PS11752778-Whirlpool-WPW10321304-Refrigerator-Door-Shelf-Bin.htm?SourceCode=18
+2025-04-27 15:43:46,167 - INFO - Processing 85/344: https://www.partselect.com/PS11722126-Whirlpool-EDR2RXD1-Water-Filter.htm?SourceCode=18
+2025-04-27 15:43:48,807 - INFO - Scraping: https://www.partselect.com/PS11722126-Whirlpool-EDR2RXD1-Water-Filter.htm?SourceCode=18
+2025-04-27 15:44:12,837 - INFO - Processing 86/344: https://www.partselect.com/PS8769007-Frigidaire-241537103-Cold-Control-Thermostat.htm?SourceCode=18
+2025-04-27 15:44:14,030 - INFO - Scraping: https://www.partselect.com/PS8769007-Frigidaire-241537103-Cold-Control-Thermostat.htm?SourceCode=18
+2025-04-27 15:44:35,269 - INFO - Processing 87/344: https://www.partselect.com/PS11739936-Whirlpool-WP2256704-Crisper-Pan.htm?SourceCode=18
+2025-04-27 15:44:37,090 - INFO - Scraping: https://www.partselect.com/PS11739936-Whirlpool-WP2256704-Crisper-Pan.htm?SourceCode=18
+2025-04-27 15:44:55,262 - INFO - Processing 88/344: https://www.partselect.com/PS12585623-Frigidaire-5304517203-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:44:56,617 - INFO - Scraping: https://www.partselect.com/PS12585623-Frigidaire-5304517203-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:45:20,976 - INFO - Processing 89/344: https://www.partselect.com/PS11771280-Bosch-11016450-CONTAINER.htm?SourceCode=18
+2025-04-27 15:45:23,937 - INFO - Scraping: https://www.partselect.com/PS11771280-Bosch-11016450-CONTAINER.htm?SourceCode=18
+2025-04-27 15:45:32,284 - INFO - Processing 90/344: https://www.partselect.com/PS5136129-Whirlpool-W10542314-Dishwasher-Door-Gasket-with-Strike-Black.htm?SourceCode=18
+2025-04-27 15:45:34,711 - INFO - Scraping: https://www.partselect.com/PS5136129-Whirlpool-W10542314-Dishwasher-Door-Gasket-with-Strike-Black.htm?SourceCode=18
+2025-04-27 15:45:55,998 - INFO - Completed batch 9/35, saved to output/partselect_batch_9.json
+2025-04-27 15:45:56,000 - INFO - Waiting 5.07 seconds before next batch...
+2025-04-27 15:46:01,091 - INFO - Processing batch 10/35 with 10 URLs
+2025-04-27 15:46:01,093 - INFO - Processing 91/344: https://www.partselect.com/PS17808063-Blomberg-4215790100-Vacuuming-Tube.htm?SourceCode=18
+2025-04-27 15:46:01,160 - INFO - Scraping: https://www.partselect.com/PS17808063-Blomberg-4215790100-Vacuuming-Tube.htm?SourceCode=18
+2025-04-27 15:46:23,755 - INFO - Processing 92/344: https://www.partselect.com/PS11755592-Whirlpool-WPW10491331-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:46:26,730 - INFO - Scraping: https://www.partselect.com/PS11755592-Whirlpool-WPW10491331-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:46:45,834 - INFO - Processing 93/344: https://www.partselect.com/PS17219659-Frigidaire-5304535380-RACK-ASSEMBLY-UPPER-GREY.htm?SourceCode=18
+2025-04-27 15:46:48,293 - INFO - Scraping: https://www.partselect.com/PS17219659-Frigidaire-5304535380-RACK-ASSEMBLY-UPPER-GREY.htm?SourceCode=18
+2025-04-27 15:47:07,526 - INFO - Processing 94/344: https://www.partselect.com/PS4163672-Samsung-DA81-01345B-Door-Mullion-Spring.htm?SourceCode=18
+2025-04-27 15:47:09,949 - INFO - Scraping: https://www.partselect.com/PS4163672-Samsung-DA81-01345B-Door-Mullion-Spring.htm?SourceCode=18
+2025-04-27 15:47:30,711 - INFO - Processing 95/344: https://www.partselect.com/PS11743638-Whirlpool-WP67005864-Humidity-Control-Slide.htm?SourceCode=18
+2025-04-27 15:47:32,445 - INFO - Scraping: https://www.partselect.com/PS11743638-Whirlpool-WP67005864-Humidity-Control-Slide.htm?SourceCode=18
+2025-04-27 15:47:48,696 - INFO - Processing 96/344: https://www.partselect.com/PS17820249-SMEG-761171140-Cris-Gr.htm?SourceCode=18
+2025-04-27 15:47:50,195 - INFO - Scraping: https://www.partselect.com/PS17820249-SMEG-761171140-Cris-Gr.htm?SourceCode=18
+2025-04-27 15:48:15,470 - INFO - Processing 97/344: https://www.partselect.com/PS429871-Frigidaire-240338001-Refrigerator-Door-Shelf-Bin.htm?SourceCode=18
+2025-04-27 15:48:17,040 - INFO - Scraping: https://www.partselect.com/PS429871-Frigidaire-240338001-Refrigerator-Door-Shelf-Bin.htm?SourceCode=18
+2025-04-27 15:48:48,119 - INFO - Processing 98/344: https://www.partselect.com/PS16226572-GE-WR57X33326-WATER-VALVE-WITH-GUARD.htm?SourceCode=18
+2025-04-27 15:48:49,273 - INFO - Scraping: https://www.partselect.com/PS16226572-GE-WR57X33326-WATER-VALVE-WITH-GUARD.htm?SourceCode=18
+2025-04-27 15:49:12,676 - INFO - Processing 99/344: https://www.partselect.com/PS10065979-Whirlpool-W10712395-Upper-Rack-Adjuster-Kit-White-Wheels-Left-and-Right-Sides.htm?SourceCode=18
+2025-04-27 15:49:15,723 - INFO - Scraping: https://www.partselect.com/PS10065979-Whirlpool-W10712395-Upper-Rack-Adjuster-Kit-White-Wheels-Left-and-Right-Sides.htm?SourceCode=18
+2025-04-27 15:49:47,395 - INFO - Processing 100/344: https://www.partselect.com/PS3524406-LG-4933DD3001B-Hinge-Cable.htm?SourceCode=18
+2025-04-27 15:49:49,427 - INFO - Scraping: https://www.partselect.com/PS3524406-LG-4933DD3001B-Hinge-Cable.htm?SourceCode=18
+2025-04-27 15:50:13,195 - INFO - Saved progress: 100/344 URLs processed
+2025-04-27 15:50:13,197 - INFO - Completed batch 10/35, saved to output/partselect_batch_10.json
+2025-04-27 15:50:13,197 - INFO - Waiting 5.15 seconds before next batch...
+2025-04-27 15:50:18,347 - INFO - Processing batch 11/35 with 10 URLs
+2025-04-27 15:50:18,349 - INFO - Processing 101/344: https://www.partselect.com/PS11723171-Whirlpool-W10822278-Defrost-Timer.htm?SourceCode=18
+2025-04-27 15:50:18,349 - INFO - Scraping: https://www.partselect.com/PS11723171-Whirlpool-W10822278-Defrost-Timer.htm?SourceCode=18
+2025-04-27 15:50:49,271 - INFO - Processing 102/344: https://www.partselect.com/PS16618942-GE-WD12X27747-LOWER-RACK-ROLLER-AND-STUD-ASSEMBLY.htm?SourceCode=18
+2025-04-27 15:50:50,405 - INFO - Scraping: https://www.partselect.com/PS16618942-GE-WD12X27747-LOWER-RACK-ROLLER-AND-STUD-ASSEMBLY.htm?SourceCode=18
+2025-04-27 15:51:43,990 - INFO - Processing 103/344: https://www.partselect.com/PS12751166-Frigidaire-316538904-Light-Bulb.htm?SourceCode=18
+2025-04-27 15:51:46,726 - INFO - Scraping: https://www.partselect.com/PS12751166-Frigidaire-316538904-Light-Bulb.htm?SourceCode=18
+2025-04-27 15:52:09,085 - INFO - Processing 104/344: https://www.partselect.com/PS7788355-LG-AGB73093001-NOZZLE-ASSEMBLY.htm?SourceCode=18
+2025-04-27 15:52:11,771 - INFO - Scraping: https://www.partselect.com/PS7788355-LG-AGB73093001-NOZZLE-ASSEMBLY.htm?SourceCode=18
+2025-04-27 15:52:34,352 - INFO - Processing 105/344: https://www.partselect.com/PS11739091-Whirlpool-WP2187172-Refrigerator-Door-Shelf-Bin-White.htm?SourceCode=18
+2025-04-27 15:52:36,572 - INFO - Scraping: https://www.partselect.com/PS11739091-Whirlpool-WP2187172-Refrigerator-Door-Shelf-Bin-White.htm?SourceCode=18
+2025-04-27 15:53:08,294 - INFO - Processing 106/344: https://www.partselect.com/PS11755664-Whirlpool-WPW10498900-Middle-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:53:09,477 - INFO - Scraping: https://www.partselect.com/PS11755664-Whirlpool-WPW10498900-Middle-Spray-Arm.htm?SourceCode=18
+2025-04-27 15:53:29,119 - INFO - Processing 107/344: https://www.partselect.com/PS11748190-Whirlpool-WPW10082853-Tine-Pivot.htm?SourceCode=18
+2025-04-27 15:53:31,077 - INFO - Scraping: https://www.partselect.com/PS11748190-Whirlpool-WPW10082853-Tine-Pivot.htm?SourceCode=18
+2025-04-27 15:53:53,105 - INFO - Processing 108/344: https://www.partselect.com/PS11739027-Whirlpool-WP2180226-Control-Bracket.htm?SourceCode=18
+2025-04-27 15:53:55,829 - INFO - Scraping: https://www.partselect.com/PS11739027-Whirlpool-WP2180226-Control-Bracket.htm?SourceCode=18
+2025-04-27 15:54:29,211 - INFO - Processing 109/344: https://www.partselect.com/PS4163673-Samsung-DA81-01346A-Spring-PIN-French.htm?SourceCode=18
+2025-04-27 15:54:31,123 - INFO - Scraping: https://www.partselect.com/PS4163673-Samsung-DA81-01346A-Spring-PIN-French.htm?SourceCode=18
+2025-04-27 15:54:56,342 - INFO - Processing 110/344: https://www.partselect.com/PS4222532-Samsung-DD66-00023A-Lower-Rack-Roller-with-Mounting-Clip.htm?SourceCode=18
+2025-04-27 15:54:59,012 - INFO - Scraping: https://www.partselect.com/PS4222532-Samsung-DD66-00023A-Lower-Rack-Roller-with-Mounting-Clip.htm?SourceCode=18
+2025-04-27 15:55:56,582 - INFO - Completed batch 11/35, saved to output/partselect_batch_11.json
+2025-04-27 15:55:56,626 - INFO - Waiting 8.85 seconds before next batch...
+2025-04-27 15:56:05,568 - INFO - Processing batch 12/35 with 10 URLs
+2025-04-27 15:56:05,675 - INFO - Processing 111/344: https://www.partselect.com/PS16618974-GE-WD28X28918-Lower-Rack-And-Swb-Replacement-Kit.htm?SourceCode=18
+2025-04-27 15:56:05,675 - INFO - Scraping: https://www.partselect.com/PS16618974-GE-WD28X28918-Lower-Rack-And-Swb-Replacement-Kit.htm?SourceCode=18
+2025-04-27 15:57:11,003 - INFO - Processing 112/344: https://www.partselect.com/PS17800254-Blomberg-1513750200-Poseidon-Back-Traverse.htm?SourceCode=18
+2025-04-27 15:57:13,232 - INFO - Scraping: https://www.partselect.com/PS17800254-Blomberg-1513750200-Poseidon-Back-Traverse.htm?SourceCode=18
+2025-04-27 15:57:42,723 - INFO - Processing 113/344: https://www.partselect.com/PS17800150-Blomberg-1510154440-Main-Board.htm?SourceCode=18
+2025-04-27 15:57:45,449 - INFO - Scraping: https://www.partselect.com/PS17800150-Blomberg-1510154440-Main-Board.htm?SourceCode=18
+2025-04-27 15:57:54,855 - INFO - Processing 114/344: https://www.partselect.com/PS11743502-Whirlpool-WP67002659-Crisper-Drawer.htm?SourceCode=18
+2025-04-27 15:57:57,617 - INFO - Scraping: https://www.partselect.com/PS11743502-Whirlpool-WP67002659-Crisper-Drawer.htm?SourceCode=18
+2025-04-27 15:58:42,936 - INFO - Processing 115/344: https://www.partselect.com/PS8712513-Bosch-00418498-Tine-Holder.htm?SourceCode=18
+2025-04-27 15:58:44,413 - INFO - Scraping: https://www.partselect.com/PS8712513-Bosch-00418498-Tine-Holder.htm?SourceCode=18
+2025-04-27 15:59:13,761 - INFO - Processing 116/344: https://www.partselect.com/PS17807900-Blomberg-4112171200-Power-Cord-Group.htm?SourceCode=18
+2025-04-27 15:59:15,293 - INFO - Scraping: https://www.partselect.com/PS17807900-Blomberg-4112171200-Power-Cord-Group.htm?SourceCode=18
+2025-04-27 15:59:42,640 - INFO - Processing 117/344: https://www.partselect.com/PS11728058-Whirlpool-W10841140-Heat-Resistant-Adhesive.htm?SourceCode=18
+2025-04-27 15:59:44,361 - INFO - Scraping: https://www.partselect.com/PS11728058-Whirlpool-W10841140-Heat-Resistant-Adhesive.htm?SourceCode=18
+2025-04-27 15:59:56,563 - INFO - Processing 118/344: https://www.partselect.com/PS422444-Frigidaire-215267701-Door-Shelf-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 15:59:58,862 - INFO - Scraping: https://www.partselect.com/PS422444-Frigidaire-215267701-Door-Shelf-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 16:00:12,734 - INFO - Processing 119/344: https://www.partselect.com/PS17822144-SMEG-814491143-Microswitch.htm?SourceCode=18
+2025-04-27 16:00:15,473 - INFO - Scraping: https://www.partselect.com/PS17822144-SMEG-814491143-Microswitch.htm?SourceCode=18
+2025-04-27 16:00:26,989 - INFO - Processing 120/344: https://www.partselect.com/PS10057160-Whirlpool-W10728159-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:00:29,946 - INFO - Scraping: https://www.partselect.com/PS10057160-Whirlpool-W10728159-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:00:42,865 - INFO - Saved progress: 120/344 URLs processed
+2025-04-27 16:00:42,867 - INFO - Completed batch 12/35, saved to output/partselect_batch_12.json
+2025-04-27 16:00:42,867 - INFO - Waiting 7.84 seconds before next batch...
+2025-04-27 16:00:50,717 - INFO - Processing batch 13/35 with 10 URLs
+2025-04-27 16:00:50,717 - INFO - Processing 121/344: https://www.partselect.com/PS8697067-Bosch-00165314-Lower-Rack-Wheel-with-Clip.htm?SourceCode=18
+2025-04-27 16:00:50,717 - INFO - Scraping: https://www.partselect.com/PS8697067-Bosch-00165314-Lower-Rack-Wheel-with-Clip.htm?SourceCode=18
+2025-04-27 16:01:04,351 - INFO - Processing 122/344: https://www.partselect.com/PS16619590-GE-WR71X38318-SHELF-MODULE-FF.htm?SourceCode=18
+2025-04-27 16:01:06,379 - INFO - Scraping: https://www.partselect.com/PS16619590-GE-WR71X38318-SHELF-MODULE-FF.htm?SourceCode=18
+2025-04-27 16:01:20,499 - INFO - Processing 123/344: https://www.partselect.com/PS2359946-GE-WR24X10231-Fresh-Food-Door-Gasket-White.htm?SourceCode=18
+2025-04-27 16:01:22,385 - INFO - Scraping: https://www.partselect.com/PS2359946-GE-WR24X10231-Fresh-Food-Door-Gasket-White.htm?SourceCode=18
+2025-04-27 16:01:35,986 - INFO - Processing 124/344: https://www.partselect.com/PS11752991-Whirlpool-WPW10329686-Door-Cam-Black.htm?SourceCode=18
+2025-04-27 16:01:37,523 - INFO - Scraping: https://www.partselect.com/PS11752991-Whirlpool-WPW10329686-Door-Cam-Black.htm?SourceCode=18
+2025-04-27 16:01:51,643 - INFO - Processing 125/344: https://www.partselect.com/PS8701740-Bosch-00249276-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:01:53,368 - INFO - Scraping: https://www.partselect.com/PS8701740-Bosch-00249276-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:02:06,206 - INFO - Processing 126/344: https://www.partselect.com/PS4143931-Samsung-DA61-03230B-Hinge-French-Door.htm?SourceCode=18
+2025-04-27 16:02:07,706 - INFO - Scraping: https://www.partselect.com/PS4143931-Samsung-DA61-03230B-Hinge-French-Door.htm?SourceCode=18
+2025-04-27 16:02:21,446 - INFO - Processing 127/344: https://www.partselect.com/PS884734-Whirlpool-8009-Light-Bulb-40W.htm?SourceCode=18
+2025-04-27 16:02:24,428 - INFO - Scraping: https://www.partselect.com/PS884734-Whirlpool-8009-Light-Bulb-40W.htm?SourceCode=18
+2025-04-27 16:02:36,714 - INFO - Processing 128/344: https://www.partselect.com/PS11739119-Whirlpool-WP2188656-Refrigerator-Crisper-Drawer-with-Humidity-Control.htm?SourceCode=18
+2025-04-27 16:02:38,358 - INFO - Scraping: https://www.partselect.com/PS11739119-Whirlpool-WP2188656-Refrigerator-Crisper-Drawer-with-Humidity-Control.htm?SourceCode=18
+2025-04-27 16:02:51,095 - INFO - Processing 129/344: https://www.partselect.com/PS11742274-Whirlpool-WP40113801-High-Limit-Thermal-Fuse.htm?SourceCode=18
+2025-04-27 16:02:53,712 - INFO - Scraping: https://www.partselect.com/PS11742274-Whirlpool-WP40113801-High-Limit-Thermal-Fuse.htm?SourceCode=18
+2025-04-27 16:03:06,168 - INFO - Processing 130/344: https://www.partselect.com/PS11743531-Whirlpool-WP67003405-Pivot-Block.htm?SourceCode=18
+2025-04-27 16:03:07,319 - INFO - Scraping: https://www.partselect.com/PS11743531-Whirlpool-WP67003405-Pivot-Block.htm?SourceCode=18
+2025-04-27 16:03:19,733 - INFO - Completed batch 13/35, saved to output/partselect_batch_13.json
+2025-04-27 16:03:19,733 - INFO - Waiting 9.54 seconds before next batch...
+2025-04-27 16:03:29,270 - INFO - Processing batch 14/35 with 10 URLs
+2025-04-27 16:03:29,271 - INFO - Processing 131/344: https://www.partselect.com/PS298977-GE-WR2X8345-Door-Shelf-Retainer-Bar-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 16:03:29,271 - INFO - Scraping: https://www.partselect.com/PS298977-GE-WR2X8345-Door-Shelf-Retainer-Bar-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 16:03:42,225 - INFO - Processing 132/344: https://www.partselect.com/PS290199-GE-WR13X10020-Bottom-Hinge-Assembly.htm?SourceCode=18
+2025-04-27 16:03:43,754 - INFO - Scraping: https://www.partselect.com/PS290199-GE-WR13X10020-Bottom-Hinge-Assembly.htm?SourceCode=18
+2025-04-27 16:03:56,650 - INFO - Processing 133/344: https://www.partselect.com/PS16746057-Bosch-10023852-VALVE-ACCESS.htm?SourceCode=18
+2025-04-27 16:03:59,574 - INFO - Scraping: https://www.partselect.com/PS16746057-Bosch-10023852-VALVE-ACCESS.htm?SourceCode=18
+2025-04-27 16:04:12,280 - INFO - Processing 134/344: https://www.partselect.com/PS11738120-Whirlpool-W10873791-Refrigerator-Ice-Maker.htm?SourceCode=18
+2025-04-27 16:04:14,411 - INFO - Scraping: https://www.partselect.com/PS11738120-Whirlpool-W10873791-Refrigerator-Ice-Maker.htm?SourceCode=18
+2025-04-27 16:04:27,382 - INFO - Processing 135/344: https://www.partselect.com/PS12723959-Whirlpool-W11368721-Refrigerator-Door-Gasket.htm?SourceCode=18
+2025-04-27 16:04:28,952 - INFO - Scraping: https://www.partselect.com/PS12723959-Whirlpool-W11368721-Refrigerator-Door-Gasket.htm?SourceCode=18
+2025-04-27 16:04:42,293 - INFO - Processing 136/344: https://www.partselect.com/PS11774412-GE-WD08X23476-Dishwasher-Tub-Gasket.htm?SourceCode=18
+2025-04-27 16:04:43,410 - INFO - Scraping: https://www.partselect.com/PS11774412-GE-WD08X23476-Dishwasher-Tub-Gasket.htm?SourceCode=18
+2025-04-27 16:04:56,690 - INFO - Processing 137/344: https://www.partselect.com/PS734991-Frigidaire-240535201-Door-Rack-White.htm?SourceCode=18
+2025-04-27 16:04:59,138 - INFO - Scraping: https://www.partselect.com/PS734991-Frigidaire-240535201-Door-Rack-White.htm?SourceCode=18
+2025-04-27 16:05:13,078 - INFO - Processing 138/344: https://www.partselect.com/PS429963-Frigidaire-240350608-Crisper-Glass-Shelf-Insert.htm?SourceCode=18
+2025-04-27 16:05:14,320 - INFO - Scraping: https://www.partselect.com/PS429963-Frigidaire-240350608-Crisper-Glass-Shelf-Insert.htm?SourceCode=18
+2025-04-27 16:05:27,986 - INFO - Processing 139/344: https://www.partselect.com/PS11747755-Whirlpool-WP99003147-Upper-Rack-Wheel.htm?SourceCode=18
+2025-04-27 16:05:29,822 - INFO - Scraping: https://www.partselect.com/PS11747755-Whirlpool-WP99003147-Upper-Rack-Wheel.htm?SourceCode=18
+2025-04-27 16:05:41,540 - INFO - Processing 140/344: https://www.partselect.com/PS429724-Frigidaire-240323001-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 16:05:43,276 - INFO - Scraping: https://www.partselect.com/PS429724-Frigidaire-240323001-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 16:05:56,526 - INFO - Saved progress: 140/344 URLs processed
+2025-04-27 16:05:56,527 - INFO - Completed batch 14/35, saved to output/partselect_batch_14.json
+2025-04-27 16:05:56,527 - INFO - Waiting 5.20 seconds before next batch...
+2025-04-27 16:06:01,727 - INFO - Processing batch 15/35 with 10 URLs
+2025-04-27 16:06:01,728 - INFO - Processing 141/344: https://www.partselect.com/PS11770494-Frigidaire-5304506533-Filter-Base.htm?SourceCode=18
+2025-04-27 16:06:01,728 - INFO - Scraping: https://www.partselect.com/PS11770494-Frigidaire-5304506533-Filter-Base.htm?SourceCode=18
+2025-04-27 16:06:15,519 - INFO - Processing 142/344: https://www.partselect.com/PS7784009-Frigidaire-242193213-GASKET-DOOR-REF-21.htm?SourceCode=18
+2025-04-27 16:06:17,526 - INFO - Scraping: https://www.partselect.com/PS7784009-Frigidaire-242193213-GASKET-DOOR-REF-21.htm?SourceCode=18
+2025-04-27 16:06:30,007 - INFO - Processing 143/344: https://www.partselect.com/PS11731570-Whirlpool-W10861000-Detergent-Dispenser.htm?SourceCode=18
+2025-04-27 16:06:31,471 - INFO - Scraping: https://www.partselect.com/PS11731570-Whirlpool-W10861000-Detergent-Dispenser.htm?SourceCode=18
+2025-04-27 16:06:45,421 - INFO - Processing 144/344: https://www.partselect.com/PS12374439-LG-AGU75188619-PLATE-ASSEMBLY-FRONT.htm?SourceCode=18
+2025-04-27 16:06:47,753 - INFO - Scraping: https://www.partselect.com/PS12374439-LG-AGU75188619-PLATE-ASSEMBLY-FRONT.htm?SourceCode=18
+2025-04-27 16:07:02,107 - INFO - Processing 145/344: https://www.partselect.com/PS11723190-Whirlpool-W10827015-Refrigerator-Pantry-Drawer-Door-Cover.htm?SourceCode=18
+2025-04-27 16:07:04,750 - INFO - Scraping: https://www.partselect.com/PS11723190-Whirlpool-W10827015-Refrigerator-Pantry-Drawer-Door-Cover.htm?SourceCode=18
+2025-04-27 16:07:18,624 - INFO - Processing 146/344: https://www.partselect.com/PS430917-Frigidaire-240530701-Drawer-Support-Rail-Right-Side.htm?SourceCode=18
+2025-04-27 16:07:20,115 - INFO - Scraping: https://www.partselect.com/PS430917-Frigidaire-240530701-Drawer-Support-Rail-Right-Side.htm?SourceCode=18
+2025-04-27 16:07:32,595 - INFO - Processing 147/344: https://www.partselect.com/PS4174247-Samsung-DA97-06419C-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 16:07:33,919 - INFO - Scraping: https://www.partselect.com/PS4174247-Samsung-DA97-06419C-Refrigerator-Door-Bin.htm?SourceCode=18
+2025-04-27 16:07:46,224 - INFO - Processing 148/344: https://www.partselect.com/PS6447681-GE-WD21X10490-Door-Latch.htm?SourceCode=18
+2025-04-27 16:07:47,584 - INFO - Scraping: https://www.partselect.com/PS6447681-GE-WD21X10490-Door-Latch.htm?SourceCode=18
+2025-04-27 16:08:01,041 - INFO - Processing 149/344: https://www.partselect.com/PS429868-Frigidaire-240337901-Refrigerator-Door-Shelf-Retainer-Bin.htm?SourceCode=18
+2025-04-27 16:08:02,658 - INFO - Scraping: https://www.partselect.com/PS429868-Frigidaire-240337901-Refrigerator-Door-Shelf-Retainer-Bin.htm?SourceCode=18
+2025-04-27 16:08:15,843 - INFO - Processing 150/344: https://www.partselect.com/PS3579323-LG-4681ED3001D-Diverter-Motor-120V-60Hz.htm?SourceCode=18
+2025-04-27 16:08:18,105 - INFO - Scraping: https://www.partselect.com/PS3579323-LG-4681ED3001D-Diverter-Motor-120V-60Hz.htm?SourceCode=18
+2025-04-27 16:08:31,231 - INFO - Completed batch 15/35, saved to output/partselect_batch_15.json
+2025-04-27 16:08:31,232 - INFO - Waiting 7.88 seconds before next batch...
+2025-04-27 16:08:39,115 - INFO - Processing batch 16/35 with 10 URLs
+2025-04-27 16:08:39,115 - INFO - Processing 151/344: https://www.partselect.com/PS16219735-GE-WD28X27241-Rack-Carrier-Kit-Right-or-Left-side.htm?SourceCode=18
+2025-04-27 16:08:39,115 - INFO - Scraping: https://www.partselect.com/PS16219735-GE-WD28X27241-Rack-Carrier-Kit-Right-or-Left-side.htm?SourceCode=18
+2025-04-27 16:08:52,526 - INFO - Processing 152/344: https://www.partselect.com/PS11747612-Whirlpool-WP99001586-Upper-Spray-Arm-Assembly.htm?SourceCode=18
+2025-04-27 16:08:53,990 - INFO - Scraping: https://www.partselect.com/PS11747612-Whirlpool-WP99001586-Upper-Spray-Arm-Assembly.htm?SourceCode=18
+2025-04-27 16:09:08,265 - INFO - Processing 153/344: https://www.partselect.com/PS12710434-GE-WR71X30982-VEGETABLE-PAN.htm?SourceCode=18
+2025-04-27 16:09:10,388 - INFO - Scraping: https://www.partselect.com/PS12710434-GE-WR71X30982-VEGETABLE-PAN.htm?SourceCode=18
+2025-04-27 16:09:22,162 - INFO - Processing 154/344: https://www.partselect.com/PS17820721-SMEG-766252007-R-Glass-Shelf-Prf.htm?SourceCode=18
+2025-04-27 16:09:23,596 - INFO - Scraping: https://www.partselect.com/PS17820721-SMEG-766252007-R-Glass-Shelf-Prf.htm?SourceCode=18
+2025-04-27 16:09:35,681 - INFO - Processing 155/344: https://www.partselect.com/PS11753379-Whirlpool-WPW10348269-Dishwasher-Drain-Pump.htm?SourceCode=18
+2025-04-27 16:09:38,551 - INFO - Scraping: https://www.partselect.com/PS11753379-Whirlpool-WPW10348269-Dishwasher-Drain-Pump.htm?SourceCode=18
+2025-04-27 16:09:49,823 - INFO - Processing 156/344: https://www.partselect.com/PS8730270-Bosch-00645038-FILTER-MICRO.htm?SourceCode=18
+2025-04-27 16:09:50,921 - INFO - Scraping: https://www.partselect.com/PS8730270-Bosch-00645038-FILTER-MICRO.htm?SourceCode=18
+2025-04-27 16:10:04,019 - INFO - Processing 157/344: https://www.partselect.com/PS304103-GE-WR55X10025-Temperature-Sensor.htm?SourceCode=18
+2025-04-27 16:10:06,566 - INFO - Scraping: https://www.partselect.com/PS304103-GE-WR55X10025-Temperature-Sensor.htm?SourceCode=18
+2025-04-27 16:10:20,838 - INFO - Processing 158/344: https://www.partselect.com/PS17807908-Blomberg-4121072286-Capasitor-Assembly-5mf-Fast-Fix.htm?SourceCode=18
+2025-04-27 16:10:22,838 - INFO - Scraping: https://www.partselect.com/PS17807908-Blomberg-4121072286-Capasitor-Assembly-5mf-Fast-Fix.htm?SourceCode=18
+2025-04-27 16:10:27,906 - INFO - Processing 159/344: https://www.partselect.com/PS8729769-Bosch-00642239-Drain-Pump.htm?SourceCode=18
+2025-04-27 16:10:29,066 - INFO - Scraping: https://www.partselect.com/PS8729769-Bosch-00642239-Drain-Pump.htm?SourceCode=18
+2025-04-27 16:10:41,502 - INFO - Processing 160/344: https://www.partselect.com/PS334310-Whirlpool-279834-M-Series-New-Style-Coil-Kit.htm?SourceCode=18
+2025-04-27 16:10:42,705 - INFO - Scraping: https://www.partselect.com/PS334310-Whirlpool-279834-M-Series-New-Style-Coil-Kit.htm?SourceCode=18
+2025-04-27 16:10:54,823 - INFO - Saved progress: 160/344 URLs processed
+2025-04-27 16:10:54,824 - INFO - Completed batch 16/35, saved to output/partselect_batch_16.json
+2025-04-27 16:10:54,824 - INFO - Waiting 9.99 seconds before next batch...
+2025-04-27 16:11:04,817 - INFO - Processing batch 17/35 with 10 URLs
+2025-04-27 16:11:04,819 - INFO - Processing 161/344: https://www.partselect.com/PS11701542-Whirlpool-EDR1RXD1-Refrigerator-Ice-and-Water-Filter.htm?SourceCode=18
+2025-04-27 16:11:04,819 - INFO - Scraping: https://www.partselect.com/PS11701542-Whirlpool-EDR1RXD1-Refrigerator-Ice-and-Water-Filter.htm?SourceCode=18
+2025-04-27 16:11:19,250 - INFO - Processing 162/344: https://www.partselect.com/PS3637058-LG-AAP73252202-Door-Bin.htm?SourceCode=18
+2025-04-27 16:11:21,518 - INFO - Scraping: https://www.partselect.com/PS3637058-LG-AAP73252202-Door-Bin.htm?SourceCode=18
+2025-04-27 16:11:35,264 - INFO - Processing 163/344: https://www.partselect.com/PS10065024-Frigidaire-A01986801-Upper-Rack-Assembly-T3-PRO.htm?SourceCode=18
+2025-04-27 16:11:37,884 - INFO - Scraping: https://www.partselect.com/PS10065024-Frigidaire-A01986801-Upper-Rack-Assembly-T3-PRO.htm?SourceCode=18
+2025-04-27 16:11:50,654 - INFO - Processing 164/344: https://www.partselect.com/PS11738134-Whirlpool-W10874836-Pantry-End-Cap-Kit-LH-and-RH.htm?SourceCode=18
+2025-04-27 16:11:51,683 - INFO - Scraping: https://www.partselect.com/PS11738134-Whirlpool-W10874836-Pantry-End-Cap-Kit-LH-and-RH.htm?SourceCode=18
+2025-04-27 16:12:03,515 - INFO - Processing 165/344: https://www.partselect.com/PS16744934-Whirlpool-W11612326-Circulation-Pump.htm?SourceCode=18
+2025-04-27 16:12:05,284 - INFO - Scraping: https://www.partselect.com/PS16744934-Whirlpool-W11612326-Circulation-Pump.htm?SourceCode=18
+2025-04-27 16:12:17,486 - INFO - Processing 166/344: https://www.partselect.com/PS2364915-GE-WR24X10228-Freezer-Door-Gasket.htm?SourceCode=18
+2025-04-27 16:12:18,916 - INFO - Scraping: https://www.partselect.com/PS2364915-GE-WR24X10228-Freezer-Door-Gasket.htm?SourceCode=18
+2025-04-27 16:12:31,560 - INFO - Processing 167/344: https://www.partselect.com/PS8746144-GE-MWFP-Refrigerator-Ice-and-Water-Filter.htm?SourceCode=18
+2025-04-27 16:12:32,637 - INFO - Scraping: https://www.partselect.com/PS8746144-GE-MWFP-Refrigerator-Ice-and-Water-Filter.htm?SourceCode=18
+2025-04-27 16:12:44,375 - INFO - Processing 168/344: https://www.partselect.com/PS17800259-Blomberg-1513940200-Sliding-Cutlery-Basket-45cm.htm?SourceCode=18
+2025-04-27 16:12:46,624 - INFO - Scraping: https://www.partselect.com/PS17800259-Blomberg-1513940200-Sliding-Cutlery-Basket-45cm.htm?SourceCode=18
+2025-04-27 16:12:51,804 - INFO - Processing 169/344: https://www.partselect.com/PS2099645-Whirlpool-99002254-Door-Switches-and-Holder-Assembly.htm?SourceCode=18
+2025-04-27 16:12:53,337 - INFO - Scraping: https://www.partselect.com/PS2099645-Whirlpool-99002254-Door-Switches-and-Holder-Assembly.htm?SourceCode=18
+2025-04-27 16:13:05,227 - INFO - Processing 170/344: https://www.partselect.com/PS16220233-GE-WR17X30024-FRESH-FOOD-SHELF.htm?SourceCode=18
+2025-04-27 16:13:07,679 - INFO - Scraping: https://www.partselect.com/PS16220233-GE-WR17X30024-FRESH-FOOD-SHELF.htm?SourceCode=18
+2025-04-27 16:13:21,287 - INFO - Completed batch 17/35, saved to output/partselect_batch_17.json
+2025-04-27 16:13:21,287 - INFO - Waiting 5.97 seconds before next batch...
+2025-04-27 16:13:27,263 - INFO - Processing batch 18/35 with 10 URLs
+2025-04-27 16:13:27,267 - INFO - Processing 171/344: https://www.partselect.com/PS17626595-GE-WR29X43990-BUCKET-AUGER.htm?SourceCode=18
+2025-04-27 16:13:27,267 - INFO - Scraping: https://www.partselect.com/PS17626595-GE-WR29X43990-BUCKET-AUGER.htm?SourceCode=18
+2025-04-27 16:13:40,705 - INFO - Processing 172/344: https://www.partselect.com/PS11746834-Whirlpool-WP903093-White-Dishrack-Roller.htm?SourceCode=18
+2025-04-27 16:13:42,432 - INFO - Scraping: https://www.partselect.com/PS11746834-Whirlpool-WP903093-White-Dishrack-Roller.htm?SourceCode=18
+2025-04-27 16:13:55,043 - INFO - Processing 173/344: https://www.partselect.com/PS12703061-GE-WD28X24469-BASKET-ASM-SILVERWARE.htm?SourceCode=18
+2025-04-27 16:13:56,341 - INFO - Scraping: https://www.partselect.com/PS12703061-GE-WD28X24469-BASKET-ASM-SILVERWARE.htm?SourceCode=18
+2025-04-27 16:14:08,267 - INFO - Processing 174/344: https://www.partselect.com/PS11722132-Whirlpool-EDR5RXD1-EveryDrop-Water-Filter.htm?SourceCode=18
+2025-04-27 16:14:10,639 - INFO - Scraping: https://www.partselect.com/PS11722132-Whirlpool-EDR5RXD1-EveryDrop-Water-Filter.htm?SourceCode=18
+2025-04-27 16:14:23,962 - INFO - Processing 175/344: https://www.partselect.com/PS2003772-Whirlpool-12002355-Thermistor.htm?SourceCode=18
+2025-04-27 16:14:25,573 - INFO - Scraping: https://www.partselect.com/PS2003772-Whirlpool-12002355-Thermistor.htm?SourceCode=18
+2025-04-27 16:14:39,115 - INFO - Processing 176/344: https://www.partselect.com/PS12085633-Samsung-DD81-02265A-Dishwasher-Water-Inlet-Valve.htm?SourceCode=18
+2025-04-27 16:14:40,353 - INFO - Scraping: https://www.partselect.com/PS12085633-Samsung-DD81-02265A-Dishwasher-Water-Inlet-Valve.htm?SourceCode=18
+2025-04-27 16:14:52,490 - INFO - Processing 177/344: https://www.partselect.com/PS11748543-Whirlpool-WPW10117748-Inner-Door-Foam-Insulation-Strip.htm?SourceCode=18
+2025-04-27 16:14:54,825 - INFO - Scraping: https://www.partselect.com/PS11748543-Whirlpool-WPW10117748-Inner-Door-Foam-Insulation-Strip.htm?SourceCode=18
+2025-04-27 16:15:06,983 - INFO - Processing 178/344: https://www.partselect.com/PS11770479-Frigidaire-5304506508-Tine-Bracket.htm?SourceCode=18
+2025-04-27 16:15:09,731 - INFO - Scraping: https://www.partselect.com/PS11770479-Frigidaire-5304506508-Tine-Bracket.htm?SourceCode=18
+2025-04-27 16:15:24,031 - INFO - Processing 179/344: https://www.partselect.com/PS16626666-Samsung-DD81-03464A-SVC-SEAL-BOTTOM-DOOR-72318-DW-30-ED3.htm?SourceCode=18
+2025-04-27 16:15:26,750 - INFO - Scraping: https://www.partselect.com/PS16626666-Samsung-DD81-03464A-SVC-SEAL-BOTTOM-DOOR-72318-DW-30-ED3.htm?SourceCode=18
+2025-04-27 16:15:37,457 - INFO - Processing 180/344: https://www.partselect.com/PS11738900-Whirlpool-WP2149705-Door-Light-Switch.htm?SourceCode=18
+2025-04-27 16:15:39,319 - INFO - Scraping: https://www.partselect.com/PS11738900-Whirlpool-WP2149705-Door-Light-Switch.htm?SourceCode=18
+2025-04-27 16:15:52,428 - INFO - Saved progress: 180/344 URLs processed
+2025-04-27 16:15:52,429 - INFO - Completed batch 18/35, saved to output/partselect_batch_18.json
+2025-04-27 16:15:52,429 - INFO - Waiting 5.24 seconds before next batch...
+2025-04-27 16:15:57,672 - INFO - Processing batch 19/35 with 10 URLs
+2025-04-27 16:15:57,673 - INFO - Processing 181/344: https://www.partselect.com/PS11742474-Whirlpool-WP4387503-Bimetal-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 16:15:57,673 - INFO - Scraping: https://www.partselect.com/PS11742474-Whirlpool-WP4387503-Bimetal-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 16:16:10,627 - INFO - Processing 182/344: https://www.partselect.com/PS11770133-Whirlpool-W10920279-RELAY-STRT.htm?SourceCode=18
+2025-04-27 16:16:11,888 - INFO - Scraping: https://www.partselect.com/PS11770133-Whirlpool-W10920279-RELAY-STRT.htm?SourceCode=18
+2025-04-27 16:16:24,493 - INFO - Processing 183/344: https://www.partselect.com/PS11770487-Frigidaire-5304506521-Detergent-Dispenser.htm?SourceCode=18
+2025-04-27 16:16:26,903 - INFO - Scraping: https://www.partselect.com/PS11770487-Frigidaire-5304506521-Detergent-Dispenser.htm?SourceCode=18
+2025-04-27 16:16:40,577 - INFO - Processing 184/344: https://www.partselect.com/PS299562-GE-WR2X9144-Retainer-Bar-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 16:16:43,220 - INFO - Scraping: https://www.partselect.com/PS299562-GE-WR2X9144-Retainer-Bar-End-Cap-Left-or-Right-Side.htm?SourceCode=18
+2025-04-27 16:16:56,734 - INFO - Processing 185/344: https://www.partselect.com/PS8736534-Bosch-00710674-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 16:16:58,141 - INFO - Scraping: https://www.partselect.com/PS8736534-Bosch-00710674-SEAL-DOOR.htm?SourceCode=18
+2025-04-27 16:17:10,296 - INFO - Processing 186/344: https://www.partselect.com/PS16227489-Bosch-00312207-Appliance-Cleaner.htm?SourceCode=18
+2025-04-27 16:17:13,158 - INFO - Scraping: https://www.partselect.com/PS16227489-Bosch-00312207-Appliance-Cleaner.htm?SourceCode=18
+2025-04-27 16:17:26,542 - INFO - Processing 187/344: https://www.partselect.com/PS16217433-GE-XWFE-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 16:17:28,317 - INFO - Scraping: https://www.partselect.com/PS16217433-GE-XWFE-Refrigerator-Water-Filter.htm?SourceCode=18
+2025-04-27 16:17:39,565 - INFO - Processing 188/344: https://www.partselect.com/PS469510-Frigidaire-5303918202-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 16:17:41,932 - INFO - Scraping: https://www.partselect.com/PS469510-Frigidaire-5303918202-Defrost-Thermostat.htm?SourceCode=18
+2025-04-27 16:17:55,695 - INFO - Processing 189/344: https://www.partselect.com/PS17808058-Blomberg-4214780400-Heater-Spring-Back.htm?SourceCode=18
+2025-04-27 16:17:57,769 - INFO - Scraping: https://www.partselect.com/PS17808058-Blomberg-4214780400-Heater-Spring-Back.htm?SourceCode=18
+2025-04-27 16:18:02,158 - INFO - Processing 190/344: https://www.partselect.com/PS7786020-LG-AAP73631502-Door-Basket.htm?SourceCode=18
+2025-04-27 16:18:03,599 - INFO - Scraping: https://www.partselect.com/PS7786020-LG-AAP73631502-Door-Basket.htm?SourceCode=18
+2025-04-27 16:18:16,379 - INFO - Completed batch 19/35, saved to output/partselect_batch_19.json
+2025-04-27 16:18:16,380 - INFO - Waiting 6.38 seconds before next batch...
+2025-04-27 16:18:22,766 - INFO - Processing batch 20/35 with 10 URLs
+2025-04-27 16:18:22,766 - INFO - Processing 191/344: https://www.partselect.com/PS11731608-Whirlpool-W10861519-Meat-Drawer-Shelf.htm?SourceCode=18
+2025-04-27 16:18:22,766 - INFO - Scraping: https://www.partselect.com/PS11731608-Whirlpool-W10861519-Meat-Drawer-Shelf.htm?SourceCode=18
+2025-04-27 16:18:36,279 - INFO - Processing 192/344: https://www.partselect.com/PS11738573-Whirlpool-WP12656105-Pantry-End-Cap-Left-Side.htm?SourceCode=18
+2025-04-27 16:18:38,930 - INFO - Scraping: https://www.partselect.com/PS11738573-Whirlpool-WP12656105-Pantry-End-Cap-Left-Side.htm?SourceCode=18
+2025-04-27 16:18:53,116 - INFO - Processing 193/344: https://www.partselect.com/PS16226582-GE-WR71X36524-REFRIGERATOR-DOOR-BIN-LEFT.htm?SourceCode=18
+2025-04-27 16:18:54,478 - INFO - Scraping: https://www.partselect.com/PS16226582-GE-WR71X36524-REFRIGERATOR-DOOR-BIN-LEFT.htm?SourceCode=18
+2025-04-27 16:19:01,023 - INFO - Processing 194/344: https://www.partselect.com/PS2003478-Whirlpool-12001991-Ice-Dispenser-Solenoid-and-Door-Kit.htm?SourceCode=18
+2025-04-27 16:19:03,502 - INFO - Scraping: https://www.partselect.com/PS2003478-Whirlpool-12001991-Ice-Dispenser-Solenoid-and-Door-Kit.htm?SourceCode=18
+2025-04-27 16:19:16,057 - INFO - Processing 195/344: https://www.partselect.com/PS11756150-Whirlpool-WPW10546503-Dishwasher-Upper-Rack-Adjuster.htm?SourceCode=18
+2025-04-27 16:19:19,003 - INFO - Scraping: https://www.partselect.com/PS11756150-Whirlpool-WPW10546503-Dishwasher-Upper-Rack-Adjuster.htm?SourceCode=18
+2025-04-27 16:19:32,579 - INFO - Processing 196/344: https://www.partselect.com/PS17819925-SMEG-754132350-Tub-Gasket-860.htm?SourceCode=18
+2025-04-27 16:19:35,482 - INFO - Scraping: https://www.partselect.com/PS17819925-SMEG-754132350-Tub-Gasket-860.htm?SourceCode=18
+2025-04-27 16:19:50,064 - INFO - Processing 197/344: https://www.partselect.com/PS11746857-Whirlpool-WP912653-Door-Spring-Linkage.htm?SourceCode=18
+2025-04-27 16:19:53,056 - INFO - Scraping: https://www.partselect.com/PS11746857-Whirlpool-WP912653-Door-Spring-Linkage.htm?SourceCode=18
+2025-04-27 16:20:05,305 - INFO - Processing 198/344: https://www.partselect.com/PS358591-Whirlpool-4317943-Replacement-Ice-Maker.htm?SourceCode=18
+2025-04-27 16:20:06,595 - INFO - Scraping: https://www.partselect.com/PS358591-Whirlpool-4317943-Replacement-Ice-Maker.htm?SourceCode=18
+2025-04-27 16:20:19,685 - INFO - Processing 199/344: https://www.partselect.com/PS17817930-SMEG-691653296-Control-Board-Gr-U-1-New.htm?SourceCode=18
+2025-04-27 16:20:22,513 - INFO - Scraping: https://www.partselect.com/PS17817930-SMEG-691653296-Control-Board-Gr-U-1-New.htm?SourceCode=18
+2025-04-27 16:20:34,803 - INFO - Processing 200/344: https://www.partselect.com/PS12394435-Samsung-DD81-02132A-Dishwasher-Door-Switch.htm?SourceCode=18
+2025-04-27 16:20:36,518 - INFO - Scraping: https://www.partselect.com/PS12394435-Samsung-DD81-02132A-Dishwasher-Door-Switch.htm?SourceCode=18
+2025-04-27 16:20:49,699 - INFO - Saved progress: 200/344 URLs processed
+2025-04-27 16:20:49,700 - INFO - Completed batch 20/35, saved to output/partselect_batch_20.json
+2025-04-27 16:20:49,700 - INFO - Waiting 7.46 seconds before next batch...
+2025-04-27 16:20:57,161 - INFO - Processing batch 21/35 with 10 URLs
+2025-04-27 16:20:57,161 - INFO - Processing 201/344: https://www.partselect.com/PS1660806-Whirlpool-910209-Faucet-Adapter-Washer.htm?SourceCode=18
+2025-04-27 16:20:57,161 - INFO - Scraping: https://www.partselect.com/PS1660806-Whirlpool-910209-Faucet-Adapter-Washer.htm?SourceCode=18
+2025-04-27 16:21:09,218 - INFO - Processing 202/344: https://www.partselect.com/PS1990907-Frigidaire-154637401-Water-Inlet-Valve-120V-60Hz.htm?SourceCode=18
+2025-04-27 16:21:10,237 - INFO - Scraping: https://www.partselect.com/PS1990907-Frigidaire-154637401-Water-Inlet-Valve-120V-60Hz.htm?SourceCode=18
+2025-04-27 16:21:21,698 - INFO - Processing 203/344: https://www.partselect.com/PS11746856-Whirlpool-WP912652-Door-Spring.htm?SourceCode=18
+2025-04-27 16:21:23,073 - INFO - Scraping: https://www.partselect.com/PS11746856-Whirlpool-WP912652-Door-Spring.htm?SourceCode=18
+2025-04-27 16:21:35,999 - INFO - Processing 204/344: https://www.partselect.com/PS11765620-Whirlpool-W10884390-Refrigerator-Ice-Maker-Assembly.htm?SourceCode=18
+2025-04-27 16:21:38,150 - INFO - Scraping: https://www.partselect.com/PS11765620-Whirlpool-W10884390-Refrigerator-Ice-Maker-Assembly.htm?SourceCode=18
+2025-04-27 16:21:50,867 - INFO - Processing 205/344: https://www.partselect.com/PS17821669-SMEG-792970277-Drain-Pump-120-60-Ls08-Ul.htm?SourceCode=18
+2025-04-27 16:21:52,172 - INFO - Scraping: https://www.partselect.com/PS17821669-SMEG-792970277-Drain-Pump-120-60-Ls08-Ul.htm?SourceCode=18
+2025-04-27 16:22:09,099 - INFO - Processing 206/344: https://www.partselect.com/PS890565-GE-WR32X10398-Crisper-Drawer-Cover.htm?SourceCode=18
+2025-04-27 16:22:11,605 - INFO - Scraping: https://www.partselect.com/PS890565-GE-WR32X10398-Crisper-Drawer-Cover.htm?SourceCode=18
+2025-04-27 16:22:25,218 - INFO - Processing 207/344: https://www.partselect.com/PS217532-GE-40A15-Light-Bulb-40W.htm?SourceCode=18
+2025-04-27 16:22:27,465 - INFO - Scraping: https://www.partselect.com/PS217532-GE-40A15-Light-Bulb-40W.htm?SourceCode=18
+2025-04-27 16:22:39,356 - INFO - Processing 208/344: https://www.partselect.com/PS17818360-SMEG-695211383-Frz-Fan-Assembly-Canada.htm?SourceCode=18
+2025-04-27 16:22:40,799 - INFO - Scraping: https://www.partselect.com/PS17818360-SMEG-695211383-Frz-Fan-Assembly-Canada.htm?SourceCode=18
+2025-04-27 16:22:53,249 - INFO - Processing 209/344: https://www.partselect.com/PS17219660-Frigidaire-5304535381-WHEEL-BUSHING-ASY-UPPER-BLACK.htm?SourceCode=18
+2025-04-27 16:22:54,718 - INFO - Scraping: https://www.partselect.com/PS17219660-Frigidaire-5304535381-WHEEL-BUSHING-ASY-UPPER-BLACK.htm?SourceCode=18
+2025-04-27 16:23:07,684 - INFO - Processing 210/344: https://www.partselect.com/PS17818222-SMEG-694610879-Long-Led-Light-Right.htm?SourceCode=18
+2025-04-27 16:23:09,593 - INFO - Scraping: https://www.partselect.com/PS17818222-SMEG-694610879-Long-Led-Light-Right.htm?SourceCode=18
+2025-04-27 16:23:22,147 - INFO - Completed batch 21/35, saved to output/partselect_batch_21.json
+2025-04-27 16:23:22,148 - INFO - Waiting 6.00 seconds before next batch...
+2025-04-27 16:23:28,149 - INFO - Processing batch 22/35 with 10 URLs
+2025-04-27 16:23:28,149 - INFO - Processing 211/344: https://www.partselect.com/PS8746522-Whirlpool-W10613606-Compressor-Start-Device-and-Capacitor.htm?SourceCode=18
+2025-04-27 16:23:28,149 - INFO - Scraping: https://www.partselect.com/PS8746522-Whirlpool-W10613606-Compressor-Start-Device-and-Capacitor.htm?SourceCode=18
+2025-04-27 16:23:41,205 - INFO - Processing 212/344: https://www.partselect.com/PS11741913-Whirlpool-WP37001042-Drum-Support-Roller.htm?SourceCode=18
+2025-04-27 16:23:42,994 - INFO - Scraping: https://www.partselect.com/PS11741913-Whirlpool-WP37001042-Drum-Support-Roller.htm?SourceCode=18
+2025-04-27 16:23:58,264 - INFO - Processing 213/344: https://www.partselect.com/PS17219603-Frigidaire-5304535250-RACK-ASSEMBLY-UPPER.htm?SourceCode=18
+2025-04-27 16:24:00,273 - INFO - Scraping: https://www.partselect.com/PS17219603-Frigidaire-5304535250-RACK-ASSEMBLY-UPPER.htm?SourceCode=18
+2025-04-27 16:24:12,704 - INFO - Processing 214/344: https://www.partselect.com/PS12081830-LG-MEG64438901-HOLDER.htm?SourceCode=18
+2025-04-27 16:24:14,112 - INFO - Scraping: https://www.partselect.com/PS12081830-LG-MEG64438901-HOLDER.htm?SourceCode=18
+2025-04-27 16:24:26,535 - INFO - Processing 215/344: https://www.partselect.com/PS17818896-SMEG-699130693-Water-Valf-Ass.htm?SourceCode=18
+2025-04-27 16:24:29,539 - INFO - Scraping: https://www.partselect.com/PS17818896-SMEG-699130693-Water-Valf-Ass.htm?SourceCode=18
+2025-04-27 16:24:33,971 - INFO - Processing 216/344: https://www.partselect.com/PS12730058-Bosch-20000533-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:24:35,322 - INFO - Scraping: https://www.partselect.com/PS12730058-Bosch-20000533-Lower-Dishrack.htm?SourceCode=18
+2025-04-27 16:24:47,876 - INFO - Processing 217/344: https://www.partselect.com/PS4176653-Samsung-DA97-12650A-Door-Shelf-Bin-Right.htm?SourceCode=18
+2025-04-27 16:24:49,511 - INFO - Scraping: https://www.partselect.com/PS4176653-Samsung-DA97-12650A-Door-Shelf-Bin-Right.htm?SourceCode=18
+2025-04-27 16:25:02,048 - INFO - Processing 218/344: https://www.partselect.com/PS11770610-Frigidaire-5304507158-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 16:25:03,503 - INFO - Scraping: https://www.partselect.com/PS11770610-Frigidaire-5304507158-Lower-Spray-Arm.htm?SourceCode=18
+2025-04-27 16:25:14,759 - INFO - Processing 219/344: https://www.partselect.com/PS11764031-GE-WR55X24064-Run-Capacitor.htm?SourceCode=18
+2025-04-27 16:25:17,289 - INFO - Scraping: https://www.partselect.com/PS11764031-GE-WR55X24064-Run-Capacitor.htm?SourceCode=18
+2025-04-27 16:25:29,909 - INFO - Processing 220/344: https://www.partselect.com/PS11770496-Frigidaire-5304506535-FENCE.htm?SourceCode=18
+2025-04-27 16:25:31,775 - INFO - Scraping: https://www.partselect.com/PS11770496-Frigidaire-5304506535-FENCE.htm?SourceCode=18
+2025-04-27 16:25:44,885 - INFO - Saved progress: 220/344 URLs processed
+2025-04-27 16:25:44,886 - INFO - Completed batch 22/35, saved to output/partselect_batch_22.json
+2025-04-27 16:25:44,886 - INFO - Waiting 9.45 seconds before next batch...
+2025-04-27 16:25:50,099 - WARNING - Script interrupted by user, saving progress...
+2025-04-27 16:25:51,062 - INFO - Scraping completed: 220 URLs processed
+2025-04-27 16:25:51,062 - INFO - Success: 220 (100.00%), Failed: 0
+2025-04-27 16:25:51,074 - INFO - All data saved to output/partselect_final_data.json
+2025-04-27 16:25:51,074 - INFO - Total execution time: 1h 7m 20s
