@@ -1,0 +1,44 @@
+[
+    {
+        "part_name": "Ice Container Assembly DA97-14474C",
+        "appliance": "refrigerator",
+        "partselect_part_number": "PS11766800",
+        "manufacturer_part_number": "DA97-14474C",
+        "manufacturer": "Samsung",
+        "made_for": ["Samsung"],
+        "price": "177.89",
+        "description": "This ice tray or ice bin assembly is a genuine OEM replacement part designed for your Samsung refrigerator. The assembly is made of white plastic and has dimensions of 21 inches by 13.25 inches. It is responsible for holding the ice produced by the ice maker, so it is ready to be dispensed whenever you need it. If the ice tray assembly is faulty, you will likely have difficulties getting ice from your refrigerator, and you may notice an unusual noise coming from the ice dispenser when you attempt to use it. This part is sold individually.",
+        "rating": 4.9,
+        "num_reviews": 10,
+        "troubleshooting": "This part fixes the following symptoms: Ice maker won’t dispense iceThis part works with the following products: Refrigerator. Part# DA97-14474C replaces these:AP6034185, DA97-12604D, DA97-14474A, DA97-20156A, DA97-20156B, DA97-21040A",
+        "compatible_models": [
+            "RF25HMEDBBC",
+            "RF25HMEDBSG",
+            "RF25HMEDBSR",
+            "RF25HMEDBWW",
+            "RF25HMIDBSG",
+            "RF25HMIDBSR",
+            "RF263TEAESG",
+            "RF263TEAESP",
+            "RF263TEAESR"
+        ]
+      },
+      {
+        "part_name": "Shelf Retainer Bar End Cap WP61002112",
+        "appliance": "refrigerator",
+        "partselect_part_number": "PS11743131",
+        "manufacturer_part_number": "WP61002112",
+        "manufacturer": "Whirlpool",
+        "made_for": ["Magic Chef","Maytag", "Crosley", "Admiral"],
+        "price": "10.65",
+        "description": "The shelf retainer bar end cap is used to keep the retainer bar in place, and can be used on either the right or left hand side of the bar. This white, OEM end cap is approximately 2 inches long, and made entirely of plastic. The shelf bar and cap snap into place on the door to attach the door shelf bar to the inner door liner. This part is also known as a rail end cap. If the door bar is not properly attached to the inner door liner, your items will not be secure on the shelf, and are likely to fall.",
+        "rating": 4.7,
+        "num_reviews": 9,
+        "troubleshooting": "This part works with the following products: Refrigerator.Part# WP61002112 replaces these: AP6009957, 61001944, 61002112, WP61002112VP",
+        "compatible_models": [
+            "ATF1913ARA",
+            "ATB2113ARW",
+            "ATF1910DRA"
+        ]
+      }
+]
